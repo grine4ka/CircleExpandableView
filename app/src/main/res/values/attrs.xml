@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleExpandableView">
+        <attr name="cev_nodeCount" format="integer" />
+        <attr name="cev_expanded" format="boolean" />
+    </declare-styleable>
+
+</resources>
